@@ -17,7 +17,6 @@ The goal is to create a user-friendly, secure, and efficient system for smart ho
   - [VCDA](#vcda)
   - [Machine Learning Approach](#machine-learning-approach)
   - [Lexicon Based Approach](#lexicon-based-approach)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Dataset](#dataset)
 
@@ -59,19 +58,6 @@ The Lexicon Based approach focuses on translating voice commands into text and e
 - **Audio Input Devices**: Capture voice commands.
 - **Text Conversion and Tokenization**: Process voice commands into text and extract keywords.
 - **Lexicon System**: Uses a predefined lexicon to control smart home appliances.
-
-## Project Structure
-
-The project is organized as follows:
-
-speech-recognition-system/
-├── data/ # Put The Dataset Folder Downloaded from the Link
-├── src/ # Source code
-│ ├── Phase-1(HMM based approach)/ # HMM based approach implementation
-│ ├── Phase-2 (VCDA)/ # VCDA approach implementation
-│ ├── (Phase-3)ML Approach/ # Machine learning approach implementation
-│ └── Phase-4(Lexicon Based Approach)/ # Lexicon based approach implementation
-└── README.md # Project documentation
 
 
 ## Usage
