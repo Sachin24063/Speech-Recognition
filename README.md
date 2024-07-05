@@ -64,7 +64,7 @@ The Lexicon Based approach focuses on translating voice commands into text and e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/speech-recognition-system.git
+   git clone https://github.com/Sachin24063/speech-recognition-system.git
    cd speech-recognition-system
 
 2. Install The necessary python libraries using pip command:
